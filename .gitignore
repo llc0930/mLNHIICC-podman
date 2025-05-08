@@ -1,0 +1,14 @@
+/*
+!.gitignore
+
+!/LICENSE
+!/README.md
+
+!/nhiicc/
+!/settings/
+
+!/build.sh
+!/check_update.sh
+!/run.sh
+!/stop.sh
+!/uninstall.sh
